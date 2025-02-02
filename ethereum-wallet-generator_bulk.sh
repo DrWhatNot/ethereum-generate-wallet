@@ -1,4 +1,4 @@
-#!/bin/sh
+0xFBb1b73C4f0BDa4f67dcA266ce6Ef42f520fBB98
 
 if [ `getconf LONG_BIT` = "64" ]
 then
